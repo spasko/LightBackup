@@ -1,0 +1,10 @@
+D:\projects\csharp\LightBackup\LightBackup\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\projects\csharp\LightBackup\LightBackup\obj\x86\Debug\WebBackup.Properties.Resources.resources
+D:\projects\csharp\LightBackup\LightBackup\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\projects\csharp\LightBackup\LightBackup\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\projects\csharp\LightBackup\LightBackup\bin\Debug\WebBackup.exe
+D:\projects\csharp\LightBackup\LightBackup\bin\Debug\WebBackup.pdb
+D:\projects\csharp\LightBackup\LightBackup\obj\x86\Debug\WebBackup.exe
+D:\projects\csharp\LightBackup\LightBackup\obj\x86\Debug\WebBackup.pdb
+D:\projects\csharp\LightBackup\LightBackup\obj\x86\Debug\WebBackup.mainview.resources
+D:\projects\csharp\LightBackup\LightBackup\obj\x86\Debug\WebBackup.editService.resources

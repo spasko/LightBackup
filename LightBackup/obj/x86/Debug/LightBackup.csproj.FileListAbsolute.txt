@@ -1,0 +1,9 @@
+D:\projects\csharp\LightBackup\LightBackup\bin\Debug\LightBackup.exe
+D:\projects\csharp\LightBackup\LightBackup\bin\Debug\LightBackup.pdb
+D:\projects\csharp\LightBackup\LightBackup\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\projects\csharp\LightBackup\LightBackup\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\projects\csharp\LightBackup\LightBackup\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\projects\csharp\LightBackup\LightBackup\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\projects\csharp\LightBackup\LightBackup\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\projects\csharp\LightBackup\LightBackup\obj\x86\Debug\LightBackup.exe
+D:\projects\csharp\LightBackup\LightBackup\obj\x86\Debug\LightBackup.pdb
